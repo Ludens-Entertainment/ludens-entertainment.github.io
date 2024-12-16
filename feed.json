@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ludens Entertainment",
+    "description": "",
+    "home_page_url": "https://ludens.studio",
+    "feed_url": "https://ludens.studio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Henrique Campos"
+    },
+    "items": [
+        {
+            "id": "https://ludens.studio/test/",
+            "url": "https://ludens.studio/test/",
+            "title": "Test",
+            "summary": "test",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"696\" height=\"348\" style=\"background-color: transparent; border-style: none; border-width: 0px; overflow: hidden; width: 696px; height: 348px;\" frameborder=\"0\" src=\"https://my.machinations.io/d/mega-man-x-burster/94017c9fb0b311efa81906fdf218a24f\" allowfullscreen=\"allowfullscreen\"></iframe></div>test</p>",
+            "author": {
+                "name": "Henrique Campos"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-16T08:31:26-03:00",
+            "date_modified": "2024-12-16T08:31:26-03:00"
+        }
+    ]
+}

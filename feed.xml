@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ludens Entertainment</title>
+    <link href="https://ludens.studio/feed.xml" rel="self" />
+    <link href="https://ludens.studio" />
+    <updated>2024-12-16T08:31:26-03:00</updated>
+    <author>
+        <name>Henrique Campos</name>
+    </author>
+    <id>https://ludens.studio</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Henrique Campos</name>
+        </author>
+        <link href="https://ludens.studio/test/"/>
+        <id>https://ludens.studio/test/</id>
+
+        <updated>2024-12-16T08:31:26-03:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="696" height="348" style="background-color: transparent; border-style: none; border-width: 0px; overflow: hidden; width: 696px; height: 348px;" frameborder="0" src="https://my.machinations.io/d/mega-man-x-burster/94017c9fb0b311efa81906fdf218a24f" allowfullscreen="allowfullscreen"></iframe></div>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
