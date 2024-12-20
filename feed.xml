@@ -3,32 +3,10 @@
     <title>Ludens Entertainment</title>
     <link href="https://ludens.studio/feed.xml" rel="self" />
     <link href="https://ludens.studio" />
-    <updated>2024-12-16T08:58:50-03:00</updated>
+    <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
     <id>https://ludens.studio</id>
 
-    <entry>
-        <title>Test</title>
-        <author>
-            <name>Henrique Campos</name>
-        </author>
-        <link href="https://ludens.studio/test/"/>
-        <id>https://ludens.studio/test/</id>
-
-        <updated>2024-12-16T08:31:26-03:00</updated>
-            <summary>
-                <![CDATA[
-                    test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="696" height="348" style="background-color: transparent; border-style: none; border-width: 0px; overflow: hidden; width: 696px; height: 348px;" frameborder="0" src="https://my.machinations.io/d/mega-man-x-burster/94017c9fb0b311efa81906fdf218a24f" allowfullscreen="allowfullscreen"></iframe></div>test</p>
-<figure class="post__video"><video loading="lazy" width="694" height="347" style="width: 694px; height: 347px;" controls="controls" data-mce-fragment="1">
-<source src="https://file.notion.so/f/f/4d1ff7df-760c-4831-88ca-73ba8840bf57/fccf8d5f-dde0-49b9-ab10-cca78adf84e9/01.intro.mp4?table=block&amp;id=153ccd57-abed-8043-ab4a-d56b8bdbcc63&amp;spaceId=4d1ff7df-760c-4831-88ca-73ba8840bf57&amp;expirationTimestamp=1734480000000&amp;signature=7Q609O4YFnymJLl6ydHF17IRkFeDeOi0WDniynCKF3I&amp;downloadName=01.intro.mp4" type="video/mp4" /></video></figure>
-            ]]>
-        </content>
-    </entry>
 </feed>
