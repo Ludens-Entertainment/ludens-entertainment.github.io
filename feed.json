@@ -9,19 +9,5 @@
         "name": "Henrique Campos"
     },
     "items": [
-        {
-            "id": "https://ludens.studio/aaaa/",
-            "url": "https://ludens.studio/aaaa/",
-            "title": "aaaa",
-            "summary": "aaaa",
-            "content_html": "<p>aaaa</p>",
-            "author": {
-                "name": "Henrique Campos"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-12-20T16:24:35-03:00",
-            "date_modified": "2024-12-20T16:24:35-03:00"
-        }
     ]
 }
