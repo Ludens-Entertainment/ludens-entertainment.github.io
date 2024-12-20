@@ -3,10 +3,30 @@
     <title>Ludens Entertainment</title>
     <link href="https://ludens.studio/feed.xml" rel="self" />
     <link href="https://ludens.studio" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2024-12-20T16:24:35-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
     <id>https://ludens.studio</id>
 
+    <entry>
+        <title>aaaa</title>
+        <author>
+            <name>Henrique Campos</name>
+        </author>
+        <link href="https://ludens.studio/aaaa/"/>
+        <id>https://ludens.studio/aaaa/</id>
+
+        <updated>2024-12-20T16:24:35-03:00</updated>
+            <summary>
+                <![CDATA[
+                    aaaa
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>aaaa</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
